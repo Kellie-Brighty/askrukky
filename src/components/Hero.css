@@ -1,0 +1,10 @@
+.hero {
+  background-image: linear-gradient(
+      rgba(32, 80, 203, 0.84),
+      rgba(32, 80, 203, 0.84)
+    ),
+    url("../assets/hero-img.jpg");
+  background-position: 0 0, 0 0;
+  background-size: auto, cover;
+  background-color: #2050cb;
+}
